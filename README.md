@@ -1,2 +1,4 @@
-# vmprices-ajax
-Joomla Virtualmart ajax kosÃ¡r kiegÃ©szÃ­tÃ©s
+A használt egyszerû:
+
+Az ezen csomagolt fájlban található tartalmat el kell helyezni a weboldal templatejében,
+majd meg kell hívni a kódot lehetõség szerint azután, hogy a virtual mart js és css elemei betöltõdtek.

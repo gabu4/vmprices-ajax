@@ -1,0 +1,41 @@
+
+#infMSG {
+    background: rgba(0,0,0,.4);
+    width:100%;
+    height:100em;
+    position:fixed;
+    opacity:0;
+    transition: opacity .5s, z-index 0s ease .5s;
+    z-index:-100;
+}
+
+#infMSG #infTextMSG {
+    margin:0 auto;
+    display:table;
+    margin-top: 0%;
+    opacity:0;
+    transition: all .4s;
+    text-align:center;
+}
+
+#infMSG #infTextMSG span {
+    border-radius: 3px;
+    padding: 5px 10px;
+    background: #ffeeee;
+    border: 1px solid #666;
+    background: #ffffee;
+    font-size: 120%;
+}
+
+#infMSG.show {
+    z-index:10000000000;
+    opacity:1;
+    transition: opacity 1s, z-index 0s;
+}
+
+#infMSG.show #infTextMSG {
+    margin-top: 15%;
+    opacity:1;
+    transition: all 1.5s;
+}
+
