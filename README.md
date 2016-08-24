@@ -1,4 +1,4 @@
-A használt egyszerû:
+A hasznÃ¡lt egyszerÅ±:
 
-Az ezen csomagolt fájlban található tartalmat el kell helyezni a weboldal templatejében,
-majd meg kell hívni a kódot lehetõség szerint azután, hogy a virtual mart js és css elemei betöltõdtek.
+Az ezen csomagolt fÃ¡jlban talÃ¡lhatÃ³ tartalmat el kell helyezni a weboldal templatejÃ©ben,
+majd meg kell hÃ­vni a kÃ³dot lehetÅ‘sÃ©g szerint azutÃ¡n, hogy a virtualmart JS Ã©s CSS elemei betÃ¶ltÅ‘dtek.
